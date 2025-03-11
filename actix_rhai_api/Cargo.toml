@@ -1,0 +1,8 @@
+[package]
+name = "actix_rhai_api"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+rhai = "1.21.0"
+actix-web = "4.8.0"
